@@ -1,0 +1,188 @@
+/* Cấu trúc chung */
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f5f5f5;
+  color: #333;
+}
+
+/* Thanh bên */
+.sidebar {
+  width: 250px;
+  height: 100vh;
+  background-color: #2c3e50;
+  color: white;
+  padding: 30px;
+  box-sizing: border-box;
+  position: fixed;
+  top: 0;
+  left: 0;
+  transition: all 0.3s ease;
+}
+
+.sidebar h2 {
+  text-align: center;
+  font-size: 1.8em;
+  margin-bottom: 30px;
+  color: #ecf0f1;
+}
+
+.sidebar a {
+  display: block;
+  color: #bdc3c7;
+  padding: 15px;
+  text-decoration: none;
+  border-radius: 5px;
+  margin-bottom: 15px;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.sidebar a:hover {
+  background-color: #34495e;
+  color: white;
+}
+
+/* Nội dung chính */
+.main {
+  margin-left: 270px;  /* Vẫn giữ khoảng cách từ sidebar */
+  padding: 20px;
+}
+
+h1, h2 {
+  color: #2c3e50;
+}
+
+/* Cards thống kê */
+.clearfix {
+  display: flex;
+  justify-content: flex-start;  /* Căn trái */
+  gap: 20px; /* Giữ khoảng cách giữa các phần tử */
+  margin-bottom: 30px;
+}
+
+.card {
+  background-color: #fff;
+  padding: 25px;
+  width: 48%;  /* Giảm chiều rộng để không quá rộng */
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  text-align: center;
+  transition: transform 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+.card p {
+  font-size: 1.1em;
+  margin-bottom: 15px;
+  color: #7f8c8d;
+}
+
+.card h3 {
+  font-size: 2em;
+  color: #27ae60;
+}
+
+/* Bảng thống kê đơn hàng */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+
+th, td {
+  padding: 15px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+th {
+  background-color: #ecf0f1;
+  font-weight: bold;
+}
+
+tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+tr:hover {
+  background-color: #f1f1f1;
+}
+
+/* Danh sách sản phẩm nổi bật */
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+ul li {
+  background-color: #fff;
+  padding: 12px;
+  border-radius: 5px;
+  margin-bottom: 12px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s ease;
+}
+
+ul li:hover {
+  background-color: #f7f7f7;
+}
+
+/* Thông báo */
+.notification {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  margin-bottom: 30px;
+}
+
+.notification h3 {
+  font-size: 1.5em;
+  color: #e74c3c;
+  margin-bottom: 20px;
+}
+
+.notification ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.notification li {
+  margin: 10px 0;
+}
+
+/* Top sản phẩm bán chạy */
+ol {
+  padding-left: 20px;
+}
+
+ol li {
+  margin: 10px 0;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .clearfix {
+      flex-direction: column;
+  }
+
+  .card {
+      width: 48%;
+      margin-bottom: 20px;
+  }
+
+  .sidebar {
+      width: 200px;
+  }
+
+  .main {
+      margin-left: 220px;
+  }
+}
