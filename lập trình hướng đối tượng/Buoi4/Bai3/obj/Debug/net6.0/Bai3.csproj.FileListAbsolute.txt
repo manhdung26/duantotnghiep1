@@ -1,0 +1,15 @@
+D:\laptrinh_huongdoituong\Bai_tap_ve_nha\Buoi4\Bai3\obj\Debug\net6.0\Bai3.csproj.AssemblyReference.cache
+D:\laptrinh_huongdoituong\Bai_tap_ve_nha\Buoi4\Bai3\obj\Debug\net6.0\Bai3.GeneratedMSBuildEditorConfig.editorconfig
+D:\laptrinh_huongdoituong\Bai_tap_ve_nha\Buoi4\Bai3\obj\Debug\net6.0\Bai3.AssemblyInfoInputs.cache
+D:\laptrinh_huongdoituong\Bai_tap_ve_nha\Buoi4\Bai3\obj\Debug\net6.0\Bai3.AssemblyInfo.cs
+D:\laptrinh_huongdoituong\Bai_tap_ve_nha\Buoi4\Bai3\obj\Debug\net6.0\Bai3.csproj.CoreCompileInputs.cache
+D:\laptrinh_huongdoituong\Bai_tap_ve_nha\Buoi4\Bai3\bin\Debug\net6.0\Bai3.exe
+D:\laptrinh_huongdoituong\Bai_tap_ve_nha\Buoi4\Bai3\bin\Debug\net6.0\Bai3.deps.json
+D:\laptrinh_huongdoituong\Bai_tap_ve_nha\Buoi4\Bai3\bin\Debug\net6.0\Bai3.runtimeconfig.json
+D:\laptrinh_huongdoituong\Bai_tap_ve_nha\Buoi4\Bai3\bin\Debug\net6.0\Bai3.dll
+D:\laptrinh_huongdoituong\Bai_tap_ve_nha\Buoi4\Bai3\bin\Debug\net6.0\Bai3.pdb
+D:\laptrinh_huongdoituong\Bai_tap_ve_nha\Buoi4\Bai3\obj\Debug\net6.0\Bai3.dll
+D:\laptrinh_huongdoituong\Bai_tap_ve_nha\Buoi4\Bai3\obj\Debug\net6.0\refint\Bai3.dll
+D:\laptrinh_huongdoituong\Bai_tap_ve_nha\Buoi4\Bai3\obj\Debug\net6.0\Bai3.pdb
+D:\laptrinh_huongdoituong\Bai_tap_ve_nha\Buoi4\Bai3\obj\Debug\net6.0\Bai3.genruntimeconfig.cache
+D:\laptrinh_huongdoituong\Bai_tap_ve_nha\Buoi4\Bai3\obj\Debug\net6.0\ref\Bai3.dll
