@@ -1,5 +1,0 @@
-D:\laptrinh_huongdoituong\Bai_tap_ve_nha\Buoi4\Bai2\obj\Debug\net6.0\Bai2.csproj.AssemblyReference.cache
-D:\laptrinh_huongdoituong\Bai_tap_ve_nha\Buoi4\Bai2\obj\Debug\net6.0\Bai2.GeneratedMSBuildEditorConfig.editorconfig
-D:\laptrinh_huongdoituong\Bai_tap_ve_nha\Buoi4\Bai2\obj\Debug\net6.0\Bai2.AssemblyInfoInputs.cache
-D:\laptrinh_huongdoituong\Bai_tap_ve_nha\Buoi4\Bai2\obj\Debug\net6.0\Bai2.AssemblyInfo.cs
-D:\laptrinh_huongdoituong\Bai_tap_ve_nha\Buoi4\Bai2\obj\Debug\net6.0\Bai2.csproj.CoreCompileInputs.cache
